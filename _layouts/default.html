@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} – {{ site.title }}</title>
+  {{ content_for_header }}
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="/">Inicio</a> |
+      <a href="/presentacion/">Presentación</a> |
+      <a href="/entidad/">Entidad</a> |
+      …  
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    &copy; 2025 Ismael Ferrón Clavero
+  </footer>
+</body>
+</html>
