@@ -2,23 +2,12 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }} – {{ site.title }}</title>
-  {{ content_for_header }}
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/custom.css">  <!-- o tu CSS -->
 </head>
 <body>
-  <header>
-    <nav>
-      <a href="/">Inicio</a> |
-      <a href="/presentacion/">Presentación</a> |
-      <a href="/entidad/">Entidad</a> |
-      …  
-    </nav>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-  <footer>
-    &copy; 2025 Ismael Ferrón Clavero
-  </footer>
+  <header>…tu menú…</header>
+  <main>{{ content }}</main>
+  <footer>…tu pie…</footer>
 </body>
 </html>
