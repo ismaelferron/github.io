@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Memoria Dual – Circutor | Ismael Ferrón Clavero
 ---
 
