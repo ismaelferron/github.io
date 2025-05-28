@@ -13,6 +13,6 @@ Mi Plan de Integración y Progreso Profesional (IPOP) es un documento dinámico 
   [Accede al IPOP](https://ismaelferron.github.io/iferronIpop/)
 
 - **LinkedIn:**  
-  [Mi perfil en LinkedIn](www.linkedin.com/in/ismael-ferrón-clavero-48813959)  
+  [Mi perfil en LinkedIn](https://linkedin.com/in/ismael-ferrón-clavero-48813959)  
 
 
