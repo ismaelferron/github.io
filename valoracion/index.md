@@ -5,6 +5,6 @@ title: Valoración personal de la estancia Dual
 
 {% include nav.html %}
 
-# 7. Valoración personal de la estancia Dual
+# Valoración personal de la estancia Dual
 
 *Contenido pendiente: esta sección se completará más adelante.*
