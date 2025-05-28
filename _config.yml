@@ -4,5 +4,3 @@
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-merlot
 theme: jekyll-theme-slate  # o tu tema elegido
-include:
-  - assets/css/style.scss
