@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Memoria Dual – Circutor | Ismael Ferrón Clavero
+title: Memoria Dual – Circutor | 
 ---
 
 # Memoria Dual en Circutor
