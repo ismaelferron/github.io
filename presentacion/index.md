@@ -3,6 +3,8 @@ layout: default
 title: Presentación del alumno
 ---
 
+{% include nav.html %}
+
 ## 1. Presentación del alumno
 
 - **Nombre y apellidos:** Ismael Ferrón Clavero  
