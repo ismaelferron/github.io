@@ -5,6 +5,10 @@ title: Presentación del alumno
 
 {% include nav.html %}
 
+<aside style="float:right; width:150px; margin:0 0 1rem 1rem;">
+  <img src="/assets/img/MicrosoftTeams-image.png" alt="Foto de Ismael Ferrón" style="width:100%; border-radius:8px;">
+</aside>
+
 # Presentación del alumno
 
 Me llamo **Ismael Ferrón Clavero** y vivo en Terrassa, en la provincia de Barcelona. Desde siempre me ha fascinado la tecnología: soy autodidacta y he utilizado mis conocimientos para reparar ordenadores de conocidos y familiares. Sin embargo, para profundizar y profesionalizar mi formación decidí cursar el **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIX)** en modalidad Dual.
