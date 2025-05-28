@@ -3,4 +3,10 @@
 # theme: jekyll-theme-primer
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-merlot
+# Tema elegido
 theme: jekyll-theme-architect
+
+# Texto que aparece en la cabecera azul
+title: "Mi memoria dual"
+description: "Ismael Ferrón Clavero"
+
