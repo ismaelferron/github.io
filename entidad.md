@@ -1,7 +1,9 @@
 ---
+---
 layout: default
-title: Memoria Dual – Circutor | Ismael Ferrón Clavero
-permalink: /
+title: Datos de la entidad
+permalink: /entidad/
+---
 ---
 
 {% include nav.html %}
