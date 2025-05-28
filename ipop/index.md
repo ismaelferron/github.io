@@ -9,4 +9,4 @@ title: IPOP
 
 Puedes consultar mi Plan de Integración y Progreso Profesional (IPOP) en GitHub:
 
-[iferronIpop – Repositorio IPOP]([https://github.com/ismaelferron/iferronIpop.git](https://ismaelferron.github.io/iferronIpop/))
+[Ismael Ferrón – IPOP]([https://github.com/ismaelferron/iferronIpop.git](https://ismaelferron.github.io/iferronIpop/))
