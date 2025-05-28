@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Datos de la entidad
-permalink: /entidad/
 ---
 
 {% include nav.html %}
