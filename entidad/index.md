@@ -25,7 +25,7 @@ Circutor es un referente mundial en soluciones de eficiencia energética eléctr
 Durante mi estancia he visto de primera mano cómo Circutor colabora con un conjunto de compañías enfocadas en la innovación y la eficiencia eléctrica. A continuación, algunas de ellas:
 
 - **Dezac**  
-  <img src="/assets/img/dezac-logo.png" alt="Logo Dezac" width="60" style="vertical-align:middle; margin-right:0.5rem;">  
+  <img src="/assets/img/dezac-logo.png" alt="Logo Dezac" width="100" style="vertical-align:middle; margin-right:0.5rem;">  
   Especializada en soluciones de automatización industrial que elevan la productividad.  
   *Ubicación:* Vial Sant Jordi s/n, 08232 Viladecavalls (Barcelona).
 
