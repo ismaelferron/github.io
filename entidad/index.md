@@ -69,7 +69,7 @@ En conjunto, estas empresas complementan la misión de Circutor de mejorar la ef
       <td>Oscar Campos</td>
     </tr>
     <tr>
-      <td>Equipo de Administradores de</td>
+      <td>Equipo de Administradores de Red</td>
       <td>
         Xavi Barba<br>
         José Antonio López
