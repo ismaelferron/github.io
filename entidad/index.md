@@ -57,20 +57,22 @@ En conjunto, estas empresas complementan la misión de Circutor de mejorar la ef
 
 ## Organigrama y ubicación del departamento
 
-```text
-Oscar Campos (Jefe de Departamento IT)
-├─ Equipo de Redes
-│  ├─ Xavi Barba (Técnico de Redes)
-│  └─ José Antonio López (Técnico de Redes)
-├─ Equipo de Desarrollo Web
-│  ├─ Borja Sevilla (Desarrollador Web)
-│  └─ Marc (Desarrollador Web)
-└─ Sistemas de Información
-   ├─ Raúl Salvador (Responsable)
-   │  ├─ Eric Pérez (Becario)
-   │  ├─ Ismael Ferrón Clavero (Becario)
-   │  ├─ Jana Claraco (Becaria)
-   │  └─ Cristian Tapia (Becario)
+## Organigrama y ubicación del departamento
+
+- **Oscar Campos** (Jefe de Departamento IT)
+  - **Equipo de Redes**
+    - Xavi Barba (Técnico de Redes)
+    - José Antonio López (Técnico de Redes)
+  - **Equipo de Desarrollo Web**
+    - Borja Sevilla (Desarrollador Web)
+    - Marc (Desarrollador Web)
+  - **Sistemas de Información**
+    - Raúl Salvador (Responsable de Sistemas de Información)
+      - Eric Pérez (Becario)
+      - Ismael Ferrón Clavero (Becario)
+      - Jana Claraco (Becaria)
+      - Cristian Tapia (Becario)
+
 
 
 
