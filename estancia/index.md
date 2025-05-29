@@ -40,7 +40,7 @@ title: Datos de la estancia en Circutor
 
 ---
 
-##Resumen de mi estancia en Circutor
+## Resumen de mi estancia en Circutor
 
 En mi estancia en Circutor, fui asignado a la empresa International Capacitors miembro del grupo Circutor aunque la mayor parte del tiempo he estado en Circutor, cada semana hacia una visita a International Capacitors para realizar copias de seguridad completas de sus servidores. Además, atendí y resolví cualquier incidencia técnica surgida durante la semana, garantizando el correcto funcionamiento de sus servicios.
 
