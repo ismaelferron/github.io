@@ -6,7 +6,7 @@ title: Datos de la entidad
 {% include nav.html %}
 
 ## Nombre y dirección de la sede central  
-  Circutor S.A.  
+  Circutor S.A.U.  
   Vial Sant Jordi s/n – 08232 Viladecavalls (Barcelona), España
   
 ## Origen y período de estancia Dual  
