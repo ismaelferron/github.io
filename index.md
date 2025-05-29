@@ -6,12 +6,7 @@ permalink: /
 
 {% include nav.html %}
 
-# Memoria Dual en Circutor
-
-**Ismael Ferrón Clavero • Terrassa**  
-**Ciclo ASIX, IES Nicolau Copèrnic**
-
-## Índice
+# Índice
 
 1. [Presentación del alumno](/presentacion/)
 2. [Datos de la entidad](/entidad/)
