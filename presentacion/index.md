@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Presentación del alumno
+permalink: /
+
 ---
 
 {% include nav.html %}
