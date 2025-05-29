@@ -53,9 +53,6 @@ Durante mi estancia he visto de primera mano cómo Circutor colabora con un conj
 En conjunto, estas empresas complementan la misión de Circutor de mejorar la eficiencia energética y la calidad de la energía en distintos ámbitos industriales.
 
   
-## Organigrama y ubicación del departamento  
-
-## Organigrama y ubicación del departamento
 
 ## Organigrama y ubicación del departamento
 
