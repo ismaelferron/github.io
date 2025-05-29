@@ -5,11 +5,11 @@ title: Datos de la entidad
 
 {% include nav.html %}
 
-## Nombre y dirección de la sede central:##  
+## Nombre y dirección de la sede central  
   Circutor S.A.  
   Vial Sant Jordi s/n – 08232 Viladecavalls (Barcelona), España
   
-## Origen y período de estancia Dual:##  
+## Origen y período de estancia Dual  
   Fundada en 1973 en Terrassa (Barcelona).  
   Estancia Dual: junio 2024 – junio 2025. :contentReference[oaicite:4]{index=4}  
 
@@ -21,12 +21,12 @@ Circutor es un referente mundial en soluciones de eficiencia energética eléctr
 - Productos y servicios IoT para la industria :contentReference[oaicite:5]{index=5}  
 
 ## Organigrama y ubicación del departamento  
-*(a completar)*
+
 
 ## Descripción del departamento  
-*(a completar)*
+
 
 ## Infraestructura y herramientas a mi disposición  
-*(a completar)*
+
 
 
