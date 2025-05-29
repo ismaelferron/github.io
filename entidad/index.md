@@ -5,6 +5,7 @@ title: Datos de la entidad
 
 {% include nav.html %}
 
+# Datos de Circutor
 
 ## Nombre y dirección de la sede central  
   Circutor S.A.U.  
@@ -92,6 +93,40 @@ Asimismo, el departamento dispone de un área polivalente con una sala de reunio
 
 
 ## Infraestructura y herramientas a mi disposición  
+
+## Infraestructura y herramientas a mi disposición
+
+Durante mi estancia en Circutor he contado con un set completo de equipos y recursos que garantizan mi productividad y la continuidad de los servicios:
+
+- **Hardware corporativo**  
+  - Portátil de última generación 
+  - Monitor y soporte ergonómico  
+  - Ratón y teclado mecánico   
+  - Auriculares con micrófono integrado para videoconferencias  
+  - Base ajustable para portátil  
+  - Pendrive USB con las herramientas y entornos preconfigurados del día a día  
+  - Smartphone corporativo con soluciones de acceso remoto  
+
+- **Redes y comunicaciones**  
+  - Conexion Ethernet  
+  - Wi-Fi corporativa y VPN para trabajo remoto  
+ 
+- **Software y servicios**  
+  - Sistemas operativos Windows 10/11 y distribuciones Linux y MacOS 
+  - Microsoft 365 (Outlook, Teams, SharePoint) para colaboración y documentación  
+  - Herramientas ticketing (GLPI), solución de gestión de impresión y control de costes por usuario (Papercut MF), plataforma de protección integral con antivirus, firewall y cifrado de disco  (Sophos Endpoint 
+    Security.  
+ 
+- **Gestión de material informático**  
+  - Responsable del inventario: registro, control de stock y ubicación de portátiles, periféricos y componentes  
+  - Procedimiento de reposición: suministramos equipos o recambios (cables, baterías, adaptadores) ante desgaste o rotura  
+  - Coordinación con compras para asegurar plazos de entrega y estandarización de hardware  
+
+- **Espacios y recursos compartidos**  
+  - Sala de reuniones equipada con proyector y sistema de videoconferencia  
+  - Área de descanso con mobiliario ergonómico, cafetera y dispensador de agua para promover el bienestar  
+
+Esta infraestructura, combinada con las herramientas de software adecuadas, me ha permitido abordar tareas complejas con eficiencia, asegurar un soporte técnico ágil y contribuir a la continuidad operativa de la empresa.  
 
 
 
