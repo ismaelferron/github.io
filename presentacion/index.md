@@ -22,7 +22,8 @@ El **IES Nicolau Copèrnic** es un centro público de Educación Secundaria Obli
 
 **Referencias normativas**  
 Puedes consultar el listado completo de referencias en el portal XTEC:  
-https://xtec.gencat.cat/ca/curriculum/professionals/fp/titolsloe/infcomunicacion
+[Portal XTEC – FP Informática y Comunicaciones](https://xtec.gencat.cat/ca/curriculum/professionals/fp/titolsloe/infcomunicacion)
+
 
 ### Objetivos que quiero alcanzar con la estancia en Circutor
 - **Escenario real:** Convertir lo aprendido en el aula en soluciones tangibles.  
