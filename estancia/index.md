@@ -25,11 +25,11 @@ title: Datos de la estancia en Circutor
 
 ## Temporización de la estancia
 
-- **Período de prueba (si aplica):**  
+- **Período de prueba (FCT):**  
   - Fecha de inicio: 10/06/2024   
   - Fecha de finalización: 28/06/2024  
 - **Prácticas o contrato:**  
-  - Fecha de inicio: 01/M7/2024  
+  - Fecha de inicio: 01/07/2024  
   - Fecha de finalización: 31/07/2025  
 
 ---
