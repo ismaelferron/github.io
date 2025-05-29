@@ -67,7 +67,7 @@ En conjunto, estas empresas complementan la misión de Circutor de mejorar la ef
     - Borja Sevilla (Proyectos)
     - Marc (Proyectos)
       
-  - **Sistemas de Información**
+  - **Sistemas de Información/Asistencia Tecnica**
     - Raúl Salvador (Responsable de Sistemas de Información)
       - Eric Pérez (Becario)
       - Ismael Ferrón Clavero (Becario)
@@ -75,11 +75,19 @@ En conjunto, estas empresas complementan la misión de Circutor de mejorar la ef
       - Cristian Tapia (Becario)
 
 
+El Departamento de IT se sitúa en la primera planta del edificio, al fondo y a la izquierda del vestíbulo principal. Su espacio se ha organizado en cuatro áreas especializadas:
 
+1. **Dirección**  
+   Coordina las políticas tecnológicas, establece las directrices estratégicas y supervisa el cumplimiento de los objetivos TIC.  
+2. **Desarrollo de Proyectos**  
+   Diseña, implementa y mantiene aplicaciones internas y herramientas a medida, así como integra nuevas funcionalidades según las necesidades de la compañía.  
+3. **Administradores de Red**  
+   Gestionan y optimizan infraestructuras de red LAN/WAN, aseguran la conectividad corporativa y velan por la seguridad en la transferencia de datos.  
+4. **Sistemas de Información y Soporte Técnico**  
+   Mantienen servidores, bases de datos y sistemas de backup, además de atender y resolver incidencias diarias de los usuarios.
 
+Asimismo, el departamento dispone de un área polivalente con una sala de reuniones —equipada con una pantalla grande— para presentaciones y sesiones colaborativas. Tambien tiene la funcion de  zona de descanso con cafetera, nevera y sandwichera, diseñada para fomentar la desconexión y el bienestar del equipo durante las pausas.
 
-
-## Descripción del departamento  
 
 
 ## Infraestructura y herramientas a mi disposición  
