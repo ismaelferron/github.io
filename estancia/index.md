@@ -5,9 +5,6 @@ title: Datos de la estancia en Circutor
 
 {% include nav.html %}
 
-# Memoria Dual en Circutor
-
-
 # Datos de la estancia
 
 - **Situación contractual:** Becario en Circutor  
