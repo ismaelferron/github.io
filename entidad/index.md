@@ -18,8 +18,8 @@ Circutor es un referente mundial en soluciones de eficiencia energética eléctr
 - Compensación de energía reactiva y filtrado de armónicos  
 - Sistemas de recarga para vehículos eléctricos  
 - Software de monitorización y SCADA  
-- Productos y servicios IoT para la industria :contentReference[oaicite:5]{index=5}  
-
+- Productos y servicios IoT para la industria
+  
 ## Organigrama y ubicación del departamento  
 
 
