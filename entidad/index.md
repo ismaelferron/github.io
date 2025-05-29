@@ -5,9 +5,28 @@ title: Datos de la entidad
 
 {% include nav.html %}
 
-# Memoria Dual en Circutor
+- **Nombre y dirección de la sede central:**  
+  Circutor S.A.  
+  Vial Sant Jordi s/n – 08232 Viladecavalls (Barcelona), España :contentReference[oaicite:3]{index=3}  
 
-*Ismael Ferrón Clavero • Terrassa*  
-*Ciclo ASIX, IES Nicolau Copèrnic*
+- **Origen y período de estancia Dual:**  
+  Fundada en 1973 en Terrassa (Barcelona).  
+  Estancia Dual: junio 2024 – junio 2025. :contentReference[oaicite:4]{index=4}  
 
-… resto de tu contenido …
+## Actividad de la empresa  
+Circutor es un referente mundial en soluciones de eficiencia energética eléctrica:  
+- Compensación de energía reactiva y filtrado de armónicos  
+- Sistemas de recarga para vehículos eléctricos  
+- Software de monitorización y SCADA  
+- Productos y servicios IoT para la industria :contentReference[oaicite:5]{index=5}  
+
+## Organigrama y ubicación del departamento  
+*(a completar)*
+
+## Descripción del departamento  
+*(a completar)*
+
+## Infraestructura y herramientas a mi disposición  
+*(a completar)*
+
+
