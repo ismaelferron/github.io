@@ -5,6 +5,7 @@ title: Datos de la entidad
 
 {% include nav.html %}
 
+
 ## Nombre y dirección de la sede central  
   Circutor S.A.U.  
   Vial Sant Jordi s/n – 08232 Viladecavalls (Barcelona), España
@@ -69,10 +70,10 @@ En conjunto, estas empresas complementan la misión de Circutor de mejorar la ef
       
   - **Sistemas de Información/Asistencia Tecnica**
     - Raúl Salvador (Responsable de Sistemas de Información)
-      - Eric Pérez (Becario)
-      - Ismael Ferrón Clavero (Becario)
+      - Eric Pérez (Becario)        
       - Jana Claraco (Becaria)
       - Cristian Tapia (Becario)
+      - Ismael Ferrón (Becario)
 
 
 El Departamento de IT se sitúa en la primera planta del edificio, al fondo y a la izquierda del vestíbulo principal. Su espacio se ha organizado en cuatro áreas especializadas:
@@ -86,11 +87,13 @@ El Departamento de IT se sitúa en la primera planta del edificio, al fondo y a 
 4. **Sistemas de Información y Soporte Técnico**  
    Mantienen servidores, bases de datos y sistemas de backup, además de atender y resolver incidencias diarias de los usuarios.
 
-Asimismo, el departamento dispone de un área polivalente con una sala de reuniones —equipada con una pantalla grande— para presentaciones y sesiones colaborativas. Tambien tiene la funcion de  zona de descanso con cafetera, nevera y sandwichera, diseñada para fomentar la desconexión y el bienestar del equipo durante las pausas.
+Asimismo, el departamento dispone de un área polivalente con una sala de reuniones ,equipada con una pantalla grande, para presentaciones y sesiones colaborativas. Tambien tiene la funcion de  zona de descanso con cafetera, nevera y sandwichera, diseñada para fomentar la desconexión y el bienestar del equipo durante las pausas.
 
 
 
 ## Infraestructura y herramientas a mi disposición  
+
+
 
 
 
