@@ -55,6 +55,9 @@ En conjunto, estas empresas complementan la misión de Circutor de mejorar la ef
   
 ## Organigrama y ubicación del departamento  
 
+## Organigrama y ubicación del departamento
+
+```text
 Oscar Campos (Jefe de Departamento IT)
 ├─ Equipo de Redes
 │  ├─ Xavi Barba (Técnico de Redes)
