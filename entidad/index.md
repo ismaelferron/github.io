@@ -63,7 +63,7 @@ En conjunto, estas empresas complementan la misión de Circutor de mejorar la ef
     - José Antonio López (Técnico de Redes)
       
   - **Equipo de Proyectos**
-    -Toni Canalis  (Proyectos) 
+    - Toni Canalis  (Proyectos) 
     - Borja Sevilla (Proyectos)
     - Marc (Proyectos)
       
