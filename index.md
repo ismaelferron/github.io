@@ -12,7 +12,7 @@ permalink: /
 2. [Datos de la entidad](/entidad/)
 3. [Datos de la estancia](/estancia/)
 4. [Relaciones profesionales y seguimiento](/relaciones/)
-5. [Diario de prácticas](/diario/))
+5. [Diario de prácticas](/diario/)
 6. [Valoración personal de la estancia Dual](/valoracion/)
 7. [IPOP](/ipop/)
 
