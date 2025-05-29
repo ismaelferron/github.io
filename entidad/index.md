@@ -25,7 +25,7 @@ Circutor es un referente mundial en soluciones de eficiencia energética eléctr
 Durante mi estancia he visto de primera mano cómo Circutor colabora con un conjunto de compañías enfocadas en la innovación y la eficiencia eléctrica. A continuación, algunas de ellas:
 
 - **Dezac**  
-  <img src="/assets/img/dezac-logo.png" alt="Logo Dezac" width="100" style="vertical-align:middle; margin-right:10rem;">  
+  <img src="/assets/img/dezac-logo.png" alt="Logo Dezac" width="100" style="vertical-align:middle; margin-left:0.5rem;">  
   Especializada en soluciones de automatización industrial que elevan la productividad.  
   *Ubicación:* Vial Sant Jordi s/n, 08232 Viladecavalls (Barcelona).
 
@@ -49,12 +49,26 @@ Durante mi estancia he visto de primera mano cómo Circutor colabora con un conj
   Fabrica y mantiene instrumentos de medida y control industrial, garantizando fiabilidad.  
   *Ubicación:* Carrer Innovació, 3, Pol. Ind. Can Mitjans, 08232 Viladecavalls (Barcelona).
 
----
 
 En conjunto, estas empresas complementan la misión de Circutor de mejorar la eficiencia energética y la calidad de la energía en distintos ámbitos industriales.
 
   
 ## Organigrama y ubicación del departamento  
+
+Oscar Campos (Jefe de Departamento IT)
+├─ Equipo de Redes
+│  ├─ Xavi Barba (Técnico de Redes)
+│  └─ José Antonio López (Técnico de Redes)
+├─ Equipo de Desarrollo Web
+│  ├─ Borja Sevilla (Desarrollador Web)
+│  └─ Marc (Desarrollador Web)
+└─ Sistemas de Información
+   ├─ Raúl Salvador (Responsable)
+   │  ├─ Eric Pérez (Becario)
+   │  ├─ Ismael Ferrón Clavero (Becario)
+   │  ├─ Jana Claraco (Becaria)
+   │  └─ Cristian Tapia (Becario)
+
 
 
 ## Descripción del departamento  
