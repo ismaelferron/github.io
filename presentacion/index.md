@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentación del alumno
-permalink: /
+
 
 ---
 
