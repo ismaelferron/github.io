@@ -30,24 +30,25 @@ title: Relaciones profesionales y seguimiento de la estancia
 
 
 
-## Comunicación interna con compañeros/as y usuarios (clientes)
+## Comunicación interna con becarios y compañeros de Circutor
 
 - **Compañeros Becarios:**
   
-  - Durante la estancia he contado con compañeros excepcionales tambien compañeros del instituto. A pesar de la diferencia de edad, me he sentido totalmente integrado y admiro su entusiasmo y profesionalidad:
+  - ***Durante la estancia he contado con compañeros excepcionales tambien compañeros del instituto. A pesar de la diferencia de edad, me he sentido totalmente integrado y admiro su entusiasmo y 
+    profesionalidad:***
 
   - Eric: Gran compañero y persona integra y responsable, siempre dispuesto a ayudar en lo que haga falta. Admiro su integridad, responsabilidad y profundo conocimiento técnico, así como su fantástica 
     predisposición.
 
-  - Jana: Sin mucha experiencia previa en informática, se ha adaptado rápidamente demostrando gran capacidad y perseverancia. Es competitiva y trabajadora, y ha probado con creces su valía y determinación; esta 
+  - Jana: Sin mucha experiencia previa en informática, se ha adaptado rápidamente demostrando gran capacidad y perseverancia. Es competitiva y trabajadora, y ha probado con creces su valía y determinación, esta 
     práctica le ha servido para ganar confianza y perder la timidez inicial.
 
-  - Cristian: Excelente tanto en conocimientos como en trato personal. Lo conocía previamente, pero en estos meses he podido descubrir la amplitud de sus habilidades y su disposición a colaborar. A pesar de su  
+  - Cristian: Excelente tanto en conocimientos como en trato personal. Lo conocía previamente, pero en estos meses he podido descubrir la amplitud de sus habilidades y su caracter amable. A pesar de su  
     juventud, posee una gran base técnica y siempre está dispuesto a echar una mano.
 
 
-- **Compañeros Becarios:** 
+- **Compañeros De Circutor:** 
 
-  - Mi relación con los compañeros de Circutor ha sido muy agradable y constructiva. Trabajar junto a profesionales de la talla de Xavi, José, Toni, Borja y Marc ha sido una experiencia muy enriquecedora: de cada 
+  - Mi relación con los compañeros de Circutor ha sido muy agradable y constructiva. Trabajar junto a profesionales de la talla de Xavi, José, Toni, Borja y Marc ha sido una experiencia muy enriquecedora, de cada 
     uno he aprendido algo nuevo. Siempre han estado dispuestos a ayudar ante cualquier duda o problema que he tenido, demostrando en todo momento su gran profesionalidad y contribuyendo a un ambiente de trabajo 
     ameno, colaborativo y estimulante donde se trabaja muy agusto. 
