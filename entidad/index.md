@@ -91,9 +91,6 @@ El Departamento de IT se sitúa en la primera planta del edificio, al fondo y a 
 Asimismo, el departamento dispone de un área polivalente con una sala de reuniones ,equipada con una pantalla grande, para presentaciones y sesiones colaborativas. Tambien tiene la funcion de  zona de descanso con cafetera, nevera y sandwichera, diseñada para fomentar la desconexión y el bienestar del equipo durante las pausas.
 
 
-
-## Infraestructura y herramientas a mi disposición  
-
 ## Infraestructura y herramientas a mi disposición
 
 Durante mi estancia en Circutor he contado con un set completo de equipos y recursos que garantizan mi productividad y la continuidad de los servicios:
