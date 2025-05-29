@@ -34,8 +34,8 @@ title: Relaciones profesionales y seguimiento de la estancia
 
 - **Compañeros Becarios:**
   
-Durante la estancia he contado con compañeros excepcionales tambien compañeros del instituto. A pesar de la diferencia de edad, me he sentido totalmente integrado y admiro su entusiasmo y 
-profesionalidad
+  Durante la estancia he contado con compañeros excepcionales tambien compañeros del instituto. A pesar de la diferencia de edad, me he sentido totalmente integrado y admiro su entusiasmo y 
+  profesionalidad
 
   - Eric: Gran compañero y persona integra y responsable, siempre dispuesto a ayudar en lo que haga falta. Admiro su integridad, responsabilidad y profundo conocimiento técnico, así como su fantástica 
     predisposición.
