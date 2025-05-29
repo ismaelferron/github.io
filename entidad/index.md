@@ -67,7 +67,7 @@ En conjunto, estas empresas complementan la misión de Circutor de mejorar la ef
   - **Equipo de Proyectos**
     - Toni Canalis  (Proyectos) 
     - Borja Sevilla (Proyectos)
-    - Marc (Proyectos)
+    - Marc Genesca (Proyectos)
       
   - **Sistemas de Información/Asistencia Tecnica**
     - Raúl Salvador (Responsable de Sistemas de Información)
@@ -88,7 +88,7 @@ El Departamento de IT se sitúa en la primera planta del edificio, al fondo y a 
 4. **Sistemas de Información y Soporte Técnico**  
    Mantienen servidores, bases de datos y sistemas de backup, además de atender y resolver incidencias diarias de los usuarios.
 
-Asimismo, el departamento dispone de un área polivalente con una sala de reuniones ,equipada con una pantalla grande, para presentaciones y sesiones colaborativas. Tambien tiene la funcion de  zona de descanso con cafetera, nevera y sandwichera, diseñada para fomentar la desconexión y el bienestar del equipo durante las pausas.
+Asimismo, el departamento dispone de un área polivalente con una sala de reuniones, equipada con una pantalla grande, para presentaciones y sesiones colaborativas. Tambien tiene la funcion de  zona de descanso con cafetera, nevera y sandwichera, diseñada para fomentar la desconexión y el bienestar del equipo durante las pausas.
 
 
 ## Infraestructura y herramientas a mi disposición
@@ -112,7 +112,7 @@ Durante mi estancia en Circutor he contado con un set completo de equipos y recu
   - Sistemas operativos Windows 10/11 y distribuciones Linux y MacOS 
   - Microsoft 365 (Outlook, Teams, SharePoint) para colaboración y documentación  
   - Herramientas ticketing (GLPI), solución de gestión de impresión y control de costes por usuario (Papercut MF), plataforma de protección integral con antivirus, firewall y cifrado de disco  (Sophos Endpoint 
-    Security.  
+    Security).  
  
 - **Gestión de material informático**  
   - Responsable del inventario: registro, control de stock y ubicación de portátiles, periféricos y componentes  
