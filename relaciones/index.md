@@ -12,8 +12,8 @@ title: Relaciones profesionales y seguimiento de la estancia
 - **Nombre completo:** Albert Gomez  
 - **Frecuencia y canales de comunicación:**
   
-  - La comunicación con mi tutor dual ha sido adecuada y efectiva, a mas tambien es mi tutor en el instituto, la comunicacion a sido fluida y amena, adaptándose siempre a mis necesidades y manteniendo un feedback 
-    constante, lo que garantizó una buena coordinación y un apoyo  continuo sin incidencias.
+  - La comunicación con mi tutor dual ha sido adecuada y efectiva, a mas tambien es mi tutor en el instituto y gracias a ello, la comunicacion a sido fluida y amena, adaptándose siempre a mis necesidades y 
+    manteniendo un feedback  constante, lo que garantizó una buena coordinación y un apoyo  continuo sin incidencias.
 
 ## Tutor de la entidad
 
@@ -22,7 +22,7 @@ title: Relaciones profesionales y seguimiento de la estancia
   - **Cargo:** [Puesto o rol que desempeña]  
 - **Frecuencia y canales de comunicación:**
   
-  - La relación comunicativa con mi tutor de la empresa, que también actuó como mi superior directo, ha sido excepcionalmente constructiva y motivadora. Me proporcionó apoyo constante y feedback claro en cada   
+  - La relación comunicativa con mi tutor de la empresa, que también actuó como mi superior directo, ha sido excepcionalmente constructiva y motivadora. Me proporcionó apoyo constante y feedback claro en cada 
     fase del proyecto, atendiendo con paciencia todas mis consultas y sugerencias. Gracias a su amplia experiencia y a su propia trayectoria como antiguo alumno del Nicolau Copèrnic con prácticas en Circutor, 
     pudo anticipar mis necesidades formativas y orientarme hacia buenas prácticas profesionales.Además, me facilitó acceso a recursos adicionales y me animó a asumir responsabilidades crecientes, fomentando mi 
     autonomía y confianza. Su implicación personal en mi proceso de aprendizaje y la cercanía con que abordó cada reto contribuyeron decisivamente a mi crecimiento profesional y al enriquecimiento de mi 
