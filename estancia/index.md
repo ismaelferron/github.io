@@ -1,57 +1,57 @@
 ---
 layout: default
-title: Relaciones profesionales y seguimiento de la estancia
+title: Datos de la estancia en Circutor
 ---
 
 {% include nav.html %}
 
-# Relaciones profesionales y seguimiento de la estancia
-
-## Tutor académico
-
-- **Nombre completo:** Albert Gomez  
-- **Frecuencia y canales de comunicación:**
-  
-  - La comunicación con mi tutor dual ha sido adecuada y efectiva, a mas tambien es mi tutor en el instituto, la comunicacion a sido fluida y amena, adaptándose siempre a mis necesidades y manteniendo un feedback 
-    constante, lo que garantizó una buena coordinación y un apoyo  continuo sin incidencias.
-
-## Tutor de la entidad
-
-- **Nombre completo y cargo:**  
-  - **Nombre:** Raul Salvador  
-  - **Cargo:** [Puesto o rol que desempeña]  
-- **Frecuencia y canales de comunicación:**
-  
-  - La relación comunicativa con mi tutor de la empresa, que también actuó como mi superior directo, ha sido excepcionalmente constructiva y motivadora. Me proporcionó apoyo constante y feedback claro en cada   
-    fase del proyecto, atendiendo con paciencia todas mis consultas y sugerencias. Gracias a su amplia experiencia y a su propia trayectoria como antiguo alumno del Nicolau Copèrnic con prácticas en Circutor, 
-    pudo anticipar mis necesidades formativas y orientarme hacia buenas prácticas profesionales.Además, me facilitó acceso a recursos adicionales y me animó a asumir responsabilidades crecientes, fomentando mi 
-    autonomía y confianza. Su implicación personal en mi proceso de aprendizaje y la cercanía con que abordó cada reto contribuyeron decisivamente a mi crecimiento profesional y al enriquecimiento de mi 
-    experiencia en la empresa.
+# Datos de la Estancia en Circutor
 
 
 
-## Comunicación interna con compañeros/as y usuarios (clientes)
+##  Tipo de vinculación
 
-- **Compañeros Becarios:**
-  
-  - Durante la estancia he contado con compañeros excepcionales tambien compañeros del instituto. A pesar de la diferencia de edad, me he sentido totalmente integrado y admiro su entusiasmo y profesionalidad:
+- **Modalidad:** Becario con contrato de empresa  
 
-  - Eric: Gran compañero y persona integra y responsable, siempre dispuesto a ayudar en lo que haga falta. Admiro su integridad, responsabilidad y profundo conocimiento técnico, así como su fantástica 
-    predisposición.
+ ---
 
-  - Jana: Sin mucha experiencia previa en informática, se ha adaptado rápidamente demostrando gran capacidad y perseverancia. Es competitiva y trabajadora, y ha probado con creces su valía y determinación; esta 
-    práctica le ha servido para ganar confianza y perder la timidez inicial.
+## Cómputo de horas
 
-  - Cristian: Excelente tanto en conocimientos como en trato personal. Lo conocía previamente, pero en estos meses he podido descubrir la amplitud de sus habilidades y su disposición a colaborar. A pesar de su  
-    juventud, posee una gran base técnica y siempre está dispuesto a echar una mano.
+- **Período de prueba (FCT):**  
+  - Total de horas realizadas: [49]  
+  - Total de horas realizadas: [80]  
+- **Total de horas como becario/contratado:** [900]  
 
+---
 
-- **Compañeros Becarios:** 
+## Temporización de la estancia
 
-  - Mi relación con los compañeros de Circutor ha sido muy agradable y constructiva. Trabajar junto a profesionales de la talla de Xavi, José, Toni, Borja y Marc ha sido una experiencia muy enriquecedora: de cada 
-    uno he aprendido algo nuevo. Siempre han estado dispuestos a ayudar ante cualquier duda o problema que he tenido, demostrando en todo momento su gran profesionalidad y contribuyendo a un ambiente de trabajo 
-    ameno, colaborativo y estimulante donde se trabaja muy agusto. 
+- **Período de prueba (FCT):**  
+  - Fecha de inicio: 10/06/2024   
+  - Fecha de finalización: 28/06/2024  
+- **Prácticas o contrato:**  
+  - Fecha de inicio: 01/07/2024  
+  - Fecha de finalización: 31/07/2025  
 
+---
+
+## Días no realizados
+
+- **Vacaciones:** [agosto de 2024 por vacaciones de la empresa]  
+
+---
+
+## Resumen de mi estancia en Circutor
+
+En mi estancia en Circutor, fui asignado a la empresa International Capacitors miembro del grupo Circutor aunque la mayor parte del tiempo he estado en Circutor, cada semana hacia una visita a International Capacitors para realizar copias de seguridad completas de sus servidores. Además, atendí y resolví cualquier incidencia técnica surgida durante la semana, garantizando el correcto funcionamiento de sus servicios.
+
+Asimismo, me desplacé de manera semanal a Cimarlaser con el objetivo de actualizar las copias de seguridad y corregir las fallas reportadas por los usuarios. Estas visitas incluían la conexion de unidades de red o instalacion de programas.
+
+Mientras trabajaba en Circutor, ofrecí soporte online tanto a los empleados de International Capacitors como a los de Cimarlaser para solucionar problemas que se podían resolver de forma remota, optimizando tiempos de respuesta y minimizando paradas de producción.
+
+En los periodos en los que no había incidencias pendientes en International Capacitors o Cimarlaser, asumí la atención a usuarios y servidores dentro de las propias instalaciones de Circutor, cubriendo tareas de mantenimiento preventivo y correctivo.
+
+Este itinerario de trabajo me permitió adquirir experiencia en entornos multi­sede, gestionar copias de seguridad de forma sistemática y desarrollar habilidades de resolución de problemas tanto presencialmente como de forma remota.
   
 
 
