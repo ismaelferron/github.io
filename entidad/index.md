@@ -22,6 +22,10 @@ Circutor es un referente mundial en soluciones de eficiencia energética eléctr
 - Software de monitorización y SCADA  
 - Productos y servicios IoT para la industria
 
+![Instalaciones de Circutor]({{ '/assets/img/circutor.jpg' | relative_url }}){: width="100%" }
+
+---
+
 ## Grupo Circutor y sus empresas asociadas
 
 Durante mi estancia he visto de primera mano cómo Circutor colabora y dirige un conjunto de compañías enfocadas en la innovación y la eficiencia eléctrica. A continuación, algunas de ellas:
