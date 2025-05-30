@@ -24,7 +24,7 @@ Circutor es un referente mundial en soluciones de eficiencia energética eléctr
 
 ## Grupo Circutor y sus empresas asociadas
 
-Durante mi estancia he visto de primera mano cómo Circutor colabora con un conjunto de compañías enfocadas en la innovación y la eficiencia eléctrica. A continuación, algunas de ellas:
+Durante mi estancia he visto de primera mano cómo Circutor colabora y dirige un conjunto de compañías enfocadas en la innovación y la eficiencia eléctrica. A continuación, algunas de ellas:
 
 - **Dezac**  
   <img src="/assets/img/dezac-logo.png" alt="Logo Dezac" width="100" style="vertical-align:middle; margin-left:0.5rem;">  
