@@ -28,9 +28,13 @@ Puedes consultar el listado completo de referencias en el portal XTEC:
 
 
 ### Objetivos que quiero alcanzar con la estancia en Circutor
-- **Escenario real:** Convertir lo aprendido en el aula en soluciones tangibles.  
-- **Resolver incidencias con confianza:** Enfrentarme a fallos genuinos y superarlos, ganando agilidad al diagnosticar y cerrar tickets.  
-- **Mejorar comunicación y trabajo en equipo:** Exponer ideas en reuniones, redactar informes claros, escuchar y adaptarme.  
-- **Adoptar buenas prácticas de seguridad y documentación:** Desde instalar firewalls hasta elaborar manuales detallados.  
+- **Escenario real:** Convertir lo aprendido en el aula en soluciones tangibles.
+    
+- **Resolver incidencias con confianza:** Enfrentarme a fallos genuinos y superarlos, ganando agilidad al diagnosticar y cerrar tickets. ç
+   
+- **Mejorar comunicación y trabajo en equipo:** Exponer ideas en reuniones, redactar informes claros, escuchar y adaptarme.
+    
+- **Adoptar buenas prácticas de seguridad y documentación:** Desde instalar firewalls hasta elaborar manuales detallados.
+    
 - **Crecimiento profesional:** No se trata solo de “cumplir horas”, sino de asumir retos, aprender de los errores y avanzar con paso firme hacia mi carrera.
 
