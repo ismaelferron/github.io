@@ -181,6 +181,57 @@ Durante diciembre optimicé los procesos de fin de año, mejoré la documentaci�
 
    </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+
+### Informe Enero 2025
+
+<img src="{{ '/assets/img/informe-enero-2025.png' | relative_url }}" alt="Informe Enero 2025" width="100%" />
+
+**Tareas del mes**
+
+- **Altas, bajas y traslados:** Preparar el puesto de trabajo de la nueva incorporación.  
+- **Gestión administrativa:** Emisión de tarjeta de repuesto por pérdida, revisión de usuarios en contactos Circutor y comprobación de accesos.  
+- **Hardware:** Entrega/conexión de segundo monitor, portátil comodín y reasignación de toma de red.  
+- **Impresoras:** Instalación de impresora, creación y resolución de incidencias en Ricoh y programa DHL.  
+- **Permisos de acceso:** Alta de usuarios ADM, desbloqueo de cuentas (comodín, Sage), permisos en carpetas y resolución de bloqueos en Notilus y Zoiper.  
+- **Servicios:** Cambio de discos de backup en Intercap y Cimarlaser.  
+- **Software:** Configuración de impresoras/Sage/Outlook, instalación de Teams y Keyshot 7, scripts de red, gestión de VPN y resolución de incidencias en DraftSight, DHL Parcel 10, Alfresco y Queuemetrics.  
+- **Telecomunicaciones:** Cambio de red Wi-Fi en portátil.  
+- **Telefonía:** Preparación de varios móviles nuevos.
+
+<br/><br/>
+
+**Reflexión del mes**  
+En enero, optimicé la puesta en marcha de nuevos puestos de trabajo y fortalecí los procesos de administración de accesos, agilizando la incorporación de usuarios y mejorando la operatividad de los equipos.
+
+  </td>
+  <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+
+### Informe Febrero 2025
+
+<img src="{{ '/assets/img/informe-febrero-2025.png' | relative_url }}" alt="Informe Febrero 2025" width="100%" />
+
+**Tareas del mes**
+
+- **Documentación y reporting:** Pruebas de transferencia de llamadas y actualización del manual de Zoiper.  
+- **Gestión administrativa:** Creación de manuales de la web de Sirius y de Cirpresencia.  
+- **Hardware:** Diagnóstico de portátil con placa base dañada.  
+- **Impresoras:** Reconfiguración de IPs en impresoras y pruebas de Ricoh.  
+- **Permisos de acceso:** Desbloqueo de cuentas bloqueadas en Sage.  
+- **Seguridad:** Desbloqueo de BitLocker, restablecimiento de contraseñas y gestión de archivos sospechosos.  
+- **Servicios:** Cambio semanal de discos de backup en Intercap y Cimarlaser.  
+- **Software:** Activación de licencias, instalación de Keyshot 7, migración de escritorios, restauración de copias de seguridad y resolución de incidencias en SAP, OneDrive, Gesman y Queuemetrics.  
+- **Telecomunicaciones:** Verificación de cableado, conectividad en Synology y habilitación de tomas de red.  
+- **Telefonía:** Revisión de restricciones, reemplazo de móviles y control de gasto de línea.
+
+<br/><br/>
+**Reflexión del mes**  
+Durante febrero, reforcé la documentación y los procesos de reporting, y resolví incidencias críticas en seguridad y conectividad, lo que garantizó una mayor estabilidad y fiabilidad de la infraestructura.
+
+  </td>
+  </tr>
+
 </table>
 
 
