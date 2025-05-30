@@ -34,12 +34,14 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 ## Incidencias y tareas mensuales
 
 <table markdown="1">
-<tr>
-<td width="50%" valign="top" markdown="1">
+  <tr>
+    <td width="50%" valign="top" markdown="1">
 
 ##### Informe Junio 2024
 
-<img src="{{ '/assets/img/informe-junio-2024.png' | relative_url }}" alt="Informe Junio 2024" width="100%" />
+<img src="{{ '/assets/img/informe-junio-2024.png' | relative_url }}"
+     alt="Informe Junio 2024"
+     style="width:350px; height:auto;" />
 
 **Tareas del mes**
 
@@ -51,12 +53,14 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 - **Software:** Instalación y optimización de aplicaciones (Sophos, Bartender, Draftsight, Office y Outlook).  
 - **Telefonía:** Configuración de correos en Outlook móvil y alta de teléfonos en Sophos.  
 
-</td>
-<td width="50%" valign="top" markdown="1">
+    </td>
+    <td width="50%" valign="top" markdown="1">
 
 ##### Informe Julio 2024
 
-<img src="{{ '/assets/img/informe-julio-2024.png' | relative_url }}" alt="Informe Julio 2024" width="100%" />
+<img src="{{ '/assets/img/informe-julio-2024.png' | relative_url }}"
+     alt="Informe Julio 2024"
+     style="width:350px; height:auto;" />
 
 **Tareas del mes**
 
@@ -72,8 +76,8 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 - **Telecomunicaciones:** Instalación de PoE y VLANs.  
 - **Telefonía:** Mantenimiento de móviles y gestión de contraseñas PUK.  
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 
