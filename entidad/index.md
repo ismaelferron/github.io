@@ -13,7 +13,7 @@ title: Datos de la entidad
   
 ## Origen y período de estancia Dual  
   Fundada en 1973 en Terrassa (Barcelona).  
-  Estancia Dual: junio 2024 – junio 2025. :contentReference[oaicite:4]{index=4}  
+  Estancia Dual: junio 2024 – junio 2025.
 
 ## Actividad de la empresa  
 Circutor es un referente mundial en soluciones de eficiencia energética eléctrica:  
