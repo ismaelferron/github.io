@@ -13,7 +13,7 @@ En esta sección se recogen de forma cronológica los informes mensuales de inci
 
 ## Responsabilidades y herramientas
 
-Antes de los informes mensuales, detalla aquí las principales responsabilidades asumidas y las herramientas o servicios clave que manejas (servidor de dominio, GLPI, AnyDesk, Sophos, VPN, etc.).
+Antes de los informes mensuales, detallo aquí las principales responsabilidades asumidas y las herramientas o servicios clave que manejas (servidor de dominio, GLPI, AnyDesk, Sophos, VPN, etc.).
 
 **Responsabilidades principales:**
 - Gestión y resolución de incidencias de hardware, software, impresoras, permisos y telefonía.
