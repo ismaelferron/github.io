@@ -34,15 +34,12 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 ## Incidencias y tareas mensuales
 
 <table markdown="1">
-  <tr>
-    <td width="50%" valign="top" markdown="1">
-
-#### Informe Junio 2024
-
+<tr>
+<td width="50%" valign="top">
+### Informe Junio 2024
 <img src="{{ '/assets/img/informe-junio-2024.png' | relative_url }}" alt="Informe Junio 2024" width="100%" />
 
 **Tareas del mes**
-
 - **Altas, bajas y traslados:** Inventario y registro en Excel de las herramientas y periféricos usados.  
 - **Gestión administrativa:** Gestión de firmas, restauración de contraseñas y emisión de tarjetas de acceso.  
 - **Hardware:** Sustitución de auriculares y conexión de monitores.  
@@ -52,19 +49,14 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 - **Telefonía:** Configuración de correos en Outlook móvil y alta de teléfonos en Sophos.  
 
 <br/><br/>
-**Reflexión del mes**
-
+**Reflexión del mes**  
 Durante junio, he consolidado mis habilidades en la gestión de incidencias, aprendiendo a organizar y priorizar tareas según su urgencia y optimizando el flujo de trabajo del equipo.
-
-    </td>
-    <td width="50%" valign="top" markdown="1">
-
-#### Informe Julio 2024
-
+</td>
+<td width="50%" valign="top">
+### Informe Julio 2024
 <img src="{{ '/assets/img/informe-julio-2024.png' | relative_url }}" alt="Informe Julio 2024" width="100%" />
 
 **Tareas del mes**
-
 - **Altas, bajas y traslados:** Preparación y reasignación de equipamiento y puestos de trabajo.  
 - **Gestión administrativa:** Depuración de inventario y gestión de autorizaciones.  
 - **Hardware:** Montaje y reparación de monitores, portátiles y periféricos.  
@@ -78,21 +70,16 @@ Durante junio, he consolidado mis habilidades en la gestión de incidencias, apr
 - **Telefonía:** Mantenimiento de móviles y gestión de contraseñas PUK.  
 
 <br/><br/>
-**Reflexión del mes**
-
+**Reflexión del mes**  
 En julio, profundicé en la administración de sistemas y en la configuración de infraestructuras, lo que me permitió ganar autonomía y confianza en la resolución de problemas más complejos.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" markdown="1">
-
-#### Informe Septiembre 2024
-
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+### Informe Septiembre 2024
 <img src="{{ '/assets/img/informe-septiembre-2024.png' | relative_url }}" alt="Informe Septiembre 2024" width="100%" />
 
 **Tareas del mes**
-
 - **Altas, bajas y traslados:** Preparación de un PC para nueva alta.  
 - **Gestión administrativa:** Creación/baja de tarjetas de acceso, manual de Sophos para móviles y resolución de incidencias de Cirpresencia.  
 - **Hardware:** Preparación de portátiles, entrega de switch y adaptadores, y reparación de PCs con fallos de placa.  
@@ -105,19 +92,14 @@ En julio, profundicé en la administración de sistemas y en la configuración d
 - **Telefonía:** Gestión de líneas Vodafone.  
 
 <br/><br/>
-**Reflexión del mes**
-
+**Reflexión del mes**  
 Durante septiembre, optimicé la gestión de altas y bajas, reforcé la seguridad de acceso y pulí procesos de soporte hardware y software, mejorando notablemente los tiempos de respuesta.
-
-    </td>
-    <td width="50%" valign="top" markdown="1">
-
-#### Informe Octubre 2024
-
+</td>
+<td width="50%" valign="top">
+### Informe Octubre 2024
 <img src="{{ '/assets/img/informe-octubre-2024.png' | relative_url }}" alt="Informe Octubre 2024" width="100%" />
 
 **Tareas del mes**
-
 - **Altas, bajas y traslados:** Preparación de un PC para nueva incorporación.  
 - **Gestión administrativa:** Revisión de firmas en Outlook.  
 - **Hardware:** Mantenimiento y reparación de conexiones, portátiles y periféricos.  
@@ -131,13 +113,12 @@ Durante septiembre, optimicé la gestión de altas y bajas, reforcé la segurida
 - **Telefonía:** Gestión de líneas y renovación de dispositivos móviles.  
 
 <br/><br/>
-**Reflexión del mes**
-
+**Reflexión del mes**  
 Durante octubre, afian­cé mi capacidad para gestionar infraestructuras de red y telefonía, consolidé procedimientos de acceso y respaldo de equipos, y optimicé la configuración de aplicaciones críticas.
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
 
 
 
