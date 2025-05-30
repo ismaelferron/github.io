@@ -37,7 +37,7 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 <tr>
 <td width="50%" valign="top" markdown="1">
 
-##### Informe Junio 2024
+#### Informe Junio 2024
 
 <img src="{{ '/assets/img/informe-junio-2024.png' | relative_url }}" alt="Informe Junio 2024" width="100%" />
 
@@ -54,7 +54,13 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 </td>
 <td width="50%" valign="top" markdown="1">
 
-##### Informe Julio 2024
+<br/><br/>
+
+**Reflexión del mes**
+
+Este mes me ha permitido afianzar mis conocimientos en copias de seguridad y soporte remoto. He aprendido a priorizar incidencias y a optimizar tiempos de respuesta, lo que ha mejorado notablemente el flujo de trabajo del equipo.
+
+#### Informe Julio 2024
 
 <img src="{{ '/assets/img/informe-julio-2024.png' | relative_url }}" alt="Informe Julio 2024" width="100%" />
 
