@@ -36,7 +36,9 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 <table markdown="1">
 <tr>
 <td width="50%" valign="top">
+  
 ### Informe Junio 2024
+  
 <img src="{{ '/assets/img/informe-junio-2024.png' | relative_url }}" alt="Informe Junio 2024" width="100%" />
 
 **Tareas del mes**
@@ -49,11 +51,15 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 - **Telefonía:** Configuración de correos en Outlook móvil y alta de teléfonos en Sophos.  
 
 <br/><br/>
+
 **Reflexión del mes**  
 Durante junio, he consolidado mis habilidades en la gestión de incidencias, aprendiendo a organizar y priorizar tareas según su urgencia y optimizando el flujo de trabajo del equipo.
+
 </td>
 <td width="50%" valign="top">
+  
 ### Informe Julio 2024
+
 <img src="{{ '/assets/img/informe-julio-2024.png' | relative_url }}" alt="Informe Julio 2024" width="100%" />
 
 **Tareas del mes**
@@ -76,7 +82,9 @@ En julio, profundicé en la administración de sistemas y en la configuración d
 </tr>
 <tr>
 <td width="50%" valign="top">
+  
 ### Informe Septiembre 2024
+
 <img src="{{ '/assets/img/informe-septiembre-2024.png' | relative_url }}" alt="Informe Septiembre 2024" width="100%" />
 
 **Tareas del mes**
@@ -96,7 +104,9 @@ En julio, profundicé en la administración de sistemas y en la configuración d
 Durante septiembre, optimicé la gestión de altas y bajas, reforcé la seguridad de acceso y pulí procesos de soporte hardware y software, mejorando notablemente los tiempos de respuesta.
 </td>
 <td width="50%" valign="top">
+  
 ### Informe Octubre 2024
+
 <img src="{{ '/assets/img/informe-octubre-2024.png' | relative_url }}" alt="Informe Octubre 2024" width="100%" />
 
 **Tareas del mes**
@@ -113,8 +123,10 @@ Durante septiembre, optimicé la gestión de altas y bajas, reforcé la segurida
 - **Telefonía:** Gestión de líneas y renovación de dispositivos móviles.  
 
 <br/><br/>
+
 **Reflexión del mes**  
 Durante octubre, afian­cé mi capacidad para gestionar infraestructuras de red y telefonía, consolidé procedimientos de acceso y respaldo de equipos, y optimicé la configuración de aplicaciones críticas.
+
 </td>
 </tr>
 </table>
