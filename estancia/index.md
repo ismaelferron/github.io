@@ -21,6 +21,7 @@ title: Datos de la estancia en Circutor
    - Total de horas realizadas: [80]  
 - **Total de horas como becario/contratado:**  
    - Total de horas realizadas: [900]
+     
 ---
 
 ## Temporización de la estancia
