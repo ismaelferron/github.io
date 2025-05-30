@@ -39,7 +39,7 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 
 #### Informe Junio 2024
 
-<img src="{{ '/assets/images/diario/informe-junio-2024.png' | relative_url }}" alt="Informe Junio 2024" width="100%" />
+<img src="{{ '/assets/images/informe-junio-2024.png' | relative_url }}" alt="Informe Junio 2024" width="100%" />
 
 **Tareas del mes**
 
@@ -56,7 +56,7 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 
 #### Informe Julio 2024
 
-<img src="{{ '/assets/images/diario/informe-julio-2024.png' | relative_url }}" alt="Informe Julio 2024" width="100%" />
+<img src="{{ '/assets/images/informe-julio-2024.png' | relative_url }}" alt="Informe Julio 2024" width="100%" />
 
 **Tareas del mes**
 
