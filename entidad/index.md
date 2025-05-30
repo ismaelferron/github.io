@@ -135,6 +135,11 @@ Durante mi estancia en Circutor he contado con un set completo de equipos y recu
 
 Esta infraestructura, combinada con las herramientas de software adecuadas, me ha permitido abordar tareas complejas con eficiencia, asegurar un soporte técnico ágil y contribuir a la continuidad operativa de la empresa.  
 
+---
+
+![Mi puesto de trabajo en Circutor]({{ '/assets/img/puesto.jpg' | relative_url }}){: width="100%" }
+
+> Fotografía de mi puesto de trabajo en las instalaciones de Circutor.
 
 
 
