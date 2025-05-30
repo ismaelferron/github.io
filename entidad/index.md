@@ -34,35 +34,35 @@ Durante mi estancia he visto de primera mano cómo Circutor colabora y dirige un
    
   <img src="/assets/img/dezac-logo.png" alt="Logo Dezac" width="100" style="vertical-align:middle; margin-left:0.5rem;">  
   
-  Especializada en soluciones de automatización industrial que elevan la productividad. Esta ubicada en la planta baja de Circutor  
+  Con más de 30 años en diseño y producción de equipamiento electrónico para la eficiencia energética, ofrece desde sistemas de medida y control hasta protección y regulación de potencia reactiva especializada     en soluciones de automatización industrial que elevan la productividad. Esta ubicada en la planta baja de Circutor  
   *Ubicación:* Vial Sant Jordi s/n, 08232 Viladecavalls (Barcelona).
 
 - **International Capacitors**
    
   <img src="/assets/img/intercap-logo.png" alt="Logo Intercap" width="100" style="vertical-align:middle; margin-right:0.5rem;"> 
   
-  Desarrolla componentes electrónicos de alta fiabilidad, cumpliendo con los estándares más exigentes.  
+  Con más de 75 años diseñando y fabricando condensadores para la eficiencia energética eléctrica, dispone de una planta de baja y alta tensión de 7.000 m² en Santa Perpètua de Mogoda, lo que le permite            optimizar sus procesos de producción, desarrolla componentes electrónicos de alta fiabilidad, cumpliendo con los estándares más exigentes.  
   *Ubicación:* Carrer Vallès, 32, 08130 Santa Perpètua de Mogoda (Barcelona).
 
 - **Aplitech**
   
   <img src="/assets/img/aplitech-logo.png" alt="Logo Aplitech" width="100" style="vertical-align:middle; margin-right:0.5rem;">
   
-  Ofrece tecnología avanzada para proyectos de I+D en el cruce de ingeniería y electrónica.  
+  Con casi dos décadas de experiencia en energías renovables, Aplitech Energy diseña y fabrica estructuras y marquesinas para paneles solares fotovoltaicos y cargadores de vehículos eléctricos, combinando          diseño, fabricación e innovación, ofrece tecnología avanzada para proyectos de I+D en el cruce de ingeniería y electrónica.  
   *Ubicación:* Pol. Ind. Carrer de la Selva, 3, 08211 Pla de la Bruguera (Barcelona).
 
 - **Cimarlaser**
    
   <img src="/assets/img/cimarlaser-logo.png" alt="Logo Cimarlaser" width="100" style="vertical-align:middle; margin-right:0.5rem;">
   
-  Provee sistemas de corte y grabado láser de precisión para múltiples industrias.  
+  Especialistas en conformación de chapa, ofrecen corte láser, plegado, roscado y taladrado, apoyados en su propia infraestructura de CAD, plegadoras y roscadoras para brindar soluciones integrales in situ,        provee sistemas de corte y grabado láser de precisión para múltiples industrias.  
   *Ubicación:* Av. del Vallès, 726, 08227 Terrassa (Barcelona).
 
 - **Instrumentación Industrial Zurc**
    
   <img src="/assets/img/zync-logo.png" alt="Logo Zurc" width="100" style="vertical-align:middle; margin-right:0.5rem;"> 
   
-  Fabrica y mantiene instrumentos de medida y control industrial, garantizando fiabilidad.  
+  Desde 1963, Zurc diseña, fabrica y comercializa dispositivos de medición y control, analógicos y digitales, apostando por la innovación tecnológica y la calidad en cada solución, fabrica y mantiene              instrumentos de medida y control industrial, garantizando fiabilidad.  
   *Ubicación:* Carrer Innovació, 3, Pol. Ind. Can Mitjans, 08232 Viladecavalls (Barcelona).
 
 
