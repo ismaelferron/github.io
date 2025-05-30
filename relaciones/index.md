@@ -40,8 +40,8 @@ title: Relaciones profesionales y seguimiento de la estancia
   - Eric: Gran compañero y persona integra y responsable, siempre dispuesto a ayudar en lo que haga falta. Admiro su integridad, responsabilidad y profundo conocimiento técnico, así como su fantástica 
     predisposición.
 
-  - Jana: Sin mucha experiencia previa en informática, se ha adaptado rápidamente demostrando gran capacidad y perseverancia. Es competitiva y trabajadora, y ha probado con creces su valía y determinación, esta 
-    práctica le ha servido para ganar confianza y perder la timidez inicial.
+  - Jana: Sin mucha experiencia previa en informática, se ha adaptado rápidamente demostrando gran capacidad y perseverancia. Es competitiva y trabajadora, y ha probado con creces su valía y determinación, creo que estas 
+    práctica le han servido para ganar confianza.
 
   - Cristian: Excelente tanto en conocimientos como en trato personal. Lo conocía previamente, pero en estos meses he podido descubrir la amplitud de sus habilidades y su caracter amable. A pesar de su  juventud, 
     posee una gran base técnica y siempre está dispuesto a echar una mano.
