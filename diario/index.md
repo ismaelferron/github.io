@@ -33,9 +33,9 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 
 ## Incidencias y tareas mensuales
 
-<table markdown="1" style="border-spacing: 20px;">  
-<tr>
-  <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+<table markdown="1" style="border-spacing: 20px;">
+  <tr>
+    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
 
 ### Informe Junio 2024
 
@@ -55,8 +55,8 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 **Reflexión del mes**  
 Durante junio, he consolidado mis habilidades en la gestión de incidencias, aprendiendo a organizar y priorizar tareas según su urgencia y optimizando el flujo de trabajo del equipo.
 
-  </td>
-  <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+    </td>
+    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
 
 ### Informe Julio 2024
 
@@ -80,10 +80,10 @@ Durante junio, he consolidado mis habilidades en la gestión de incidencias, apr
 **Reflexión del mes**  
 En julio, profundicé en la administración de sistemas y en la configuración de infraestructuras, lo que me permitió ganar autonomía y confianza en la resolución de problemas más complejos.
 
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
 
 ### Informe Septiembre 2024
 
@@ -106,8 +106,8 @@ En julio, profundicé en la administración de sistemas y en la configuración d
 **Reflexión del mes**  
 Durante septiembre, optimicé la gestión de altas y bajas, reforcé la seguridad de acceso y pulí procesos de soporte hardware y software, mejorando notablemente los tiempos de respuesta.
 
-  </td>
-  <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+    </td>
+    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
 
 ### Informe Octubre 2024
 
@@ -130,9 +130,57 @@ Durante septiembre, optimicé la gestión de altas y bajas, reforcé la segurida
 <br/><br/>
 **Reflexión del mes**  
 Durante octubre, afian­cé mi capacidad para gestionar infraestructuras de red y telefonía, consolidé procedimientos de acceso y respaldo de equipos, y optimicé la configuración de aplicaciones críticas.
-  
-  </td>
-</tr>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+
+### Informe Noviembre 2024
+
+<img src="{{ '/assets/img/informe-noviembre-2024.png' | relative_url }}" alt="Informe Noviembre 2024" width="100%" />
+
+**Tareas del mes**
+
+- **Gestión administrativa:** Creación del manual de Outlook, emisión de tarjeta de acceso y solicitud de ordenación del CPD.  
+- **Hardware:** Cambio de soporte de monitor, entrega de Surface Pencil, instalación de hub USB y entrega/configuración de ratón 3D.  
+- **Impresoras:** Resolución de incidencia en impresoras Ricoh.  
+- **S.O.:** Cambio de usuario en Windows.  
+- **Seguridad:** Gestión de contraseñas de Windows y AMD, desbloqueo de cuentas y resolución de bloqueos en Bi2go.  
+- **Servicios:** Cambio semanal de discos de backup en Intercap y Cimarlaser.  
+- **Software:** Cambio de usuario en VPN, pruebas de escritorios virtuales, incidencia de impresión en SAP, licencias Bartender, configuración de Outlook Web, Power Vision, PDFCreator y GLPI, entre otras.  
+- **Telecomunicaciones:** Cambio de tomas de red en Intercap, incidencia de fichaje en Cimarlaser y gestión de contraseñas Wi-Fi de Circutor.  
+- **Telefonía:** Reducción de tarifa de datos, habilitación de Discord en Sophos y preparación de móvil de sustitución.  
+
+<br/><br/>
+**Reflexión del mes**  
+En noviembre consolidé la documentación de procesos y reforcé la infraestructura hardware y de red, lo que mejoró la eficiencia y tiempos de respuesta del equipo.
+
+    </td>
+    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+
+### Informe Diciembre 2024
+
+<img src="{{ '/assets/img/informe-diciembre-2024.png' | relative_url }}" alt="Informe Diciembre 2024" width="100%" />
+
+**Tareas del mes**
+
+- **Altas, bajas y traslados:** Preparación de portátiles para nuevas incorporaciones y reasignación de puestos de trabajo.  
+- **Gestión administrativa:** Creación de manuales de GLPI y SAGE en Intercap.  
+- **Hardware:** Ampliación de memoria RAM, limpieza de ventiladores, entrega de ratón y teclado, y sustitución de PCs.  
+- **Impresoras:** Resolución de licencias e incidencias en impresoras y escáneres.  
+- **Seguridad:** Cambio de contraseñas caducadas en Active Directory.  
+- **Servicios:** Reemplazo de discos de backup en Intercap y Cimarlaser.  
+- **Software:** Resolución de incidencias en Zoiper, VPN, impresión y Outlook; instalación de DraftSight, configuración de equipos y actualización de aplicaciones.  
+- **Telecomunicaciones:** Reparación de cableado Ethernet y gestión de contraseñas Wi-Fi.  
+- **Telefonía:** Entrega de cargadores y mantenimiento de dispositivos móviles.  
+
+<br/><br/>
+**Reflexión del mes**  
+Durante diciembre optimicé los procesos de fin de año, mejoré la documentación de sistemas y dejé la infraestructura lista para el próximo año.
+
+   </td>
+  </tr>
 </table>
 
 
