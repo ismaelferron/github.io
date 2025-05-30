@@ -19,7 +19,7 @@ title: Relaciones profesionales y seguimiento de la estancia
 
 - **Nombre completo y cargo:**  
   - **Nombre:** Raul Salvador  
-  - **Cargo:** [Puesto o rol que desempeña]  
+  - **Cargo:** Tecnico IT- Sistemas de Información  
 - **Frecuencia y canales de comunicación:**
   
   - La relación comunicativa con mi tutor de la empresa, que también actuó como mi superior directo, ha sido excepcionalmente constructiva y motivadora. Me proporcionó apoyo constante y feedback claro en cada 
