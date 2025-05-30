@@ -5,7 +5,7 @@ title: Diario Dual
 
 {% include nav.html %}
 
-# 5. Diario Dual de Prácticas
+# Diario Dual de Prácticas
 
 En esta sección se recogen de forma cronológica los informes mensuales de incidencias resueltas, tareas realizadas y aprendizajes obtenidos durante mi estancia dual.
 
