@@ -308,7 +308,7 @@ En mayo reforcé los procesos de mantenimiento preventivo y la actualización de
 
 ## Reflexión general
 
-[Escribe aquí tu pequeña reflexión sobre el periodo de prácticas…]
+En todos estos meses de becario en Circutor he realizado diversas tareas y he podido comprobar cómo es el día a día de un departamento informático, siendo una experiencia muy gratificante y enriquecedora.
 
 
 
