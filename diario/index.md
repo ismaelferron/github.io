@@ -43,7 +43,7 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 
 **Tareas del mes**
 
-- **Altas, bajas y traslados:** Inventario y registro en Excel de las herramientas y periféricos usados.  
+- **Altas, bajas y traslados:** Inventario y registro en Excel de las herramientas y periféricos usados por el equipo.  
 - **Gestión administrativa:** Gestión de firmas, restauración de contraseñas y emisión de tarjetas de acceso.  
 - **Hardware:** Sustitución de auriculares y conexión de monitores.  
 - **Impresoras:** Preparación e instalación de drivers en impresora Intermec.  
@@ -51,14 +51,13 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 - **Software:** Instalación y optimización de aplicaciones (Sophos, Bartender, Draftsight, Office y Outlook).  
 - **Telefonía:** Configuración de correos en Outlook móvil y alta de teléfonos en Sophos.  
 
-</td>
-<td width="50%" valign="top" markdown="1">
-
 <br/><br/>
-
 **Reflexión del mes**
 
-Este mes me ha permitido afianzar mis conocimientos en copias de seguridad y soporte remoto. He aprendido a priorizar incidencias y a optimizar tiempos de respuesta, lo que ha mejorado notablemente el flujo de trabajo del equipo.
+Durante junio, he consolidado mis habilidades en la gestión de incidencias, aprendiendo a organizar y priorizar tareas según su urgencia y optimizando el flujo de trabajo del equipo.
+
+</td>
+<td width="50%" valign="top" markdown="1">
 
 #### Informe Julio 2024
 
@@ -77,6 +76,11 @@ Este mes me ha permitido afianzar mis conocimientos en copias de seguridad y sop
 - **Software:** Instalación y configuración de SAP, DWG TrueView, Sage, AnyDesk, etc.  
 - **Telecomunicaciones:** Instalación de PoE y VLANs.  
 - **Telefonía:** Mantenimiento de móviles y gestión de contraseñas PUK.  
+
+<br/><br/>
+**Reflexión del mes**
+
+En julio, profundicé en la administración de sistemas y en la configuración de infraestructuras, lo que me permitió ganar autonomía y confianza en la resolución de problemas más complejos.
 
 </td>
 </tr>
