@@ -34,8 +34,8 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 ## Incidencias y tareas mensuales
 
 <table markdown="1">
-  <tr>
-    <td width="50%" valign="top" markdown="1">
+<tr>
+<td width="50%" valign="top" markdown="1">
 
 ##### Informe Junio 2024
 
@@ -49,10 +49,10 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 - **Impresoras:** Preparación e instalación de drivers en impresora Intermec.  
 - **Seguridad:** Restablecimiento de contraseñas de Windows.  
 - **Software:** Instalación y optimización de aplicaciones (Sophos, Bartender, Draftsight, Office y Outlook).  
-- **Telefonía:** Configuración de correos en Outlook móvil y alta de teléfonos en Sophos.
+- **Telefonía:** Configuración de correos en Outlook móvil y alta de teléfonos en Sophos.  
 
-    </td>
-    <td width="50%" valign="top" markdown="1">
+</td>
+<td width="50%" valign="top" markdown="1">
 
 ##### Informe Julio 2024
 
@@ -70,10 +70,11 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 - **Servicios:** Mantenimiento de backups y cambio de discos.  
 - **Software:** Instalación y configuración de SAP, DWG TrueView, Sage, AnyDesk, etc.  
 - **Telecomunicaciones:** Instalación de PoE y VLANs.  
-- **Telefonía:** Mantenimiento de móviles y gestión de contraseñas PUK.
+- **Telefonía:** Mantenimiento de móviles y gestión de contraseñas PUK.  
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
 
 
