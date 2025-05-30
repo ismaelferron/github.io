@@ -232,6 +232,53 @@ Durante febrero, reforcé la documentación y los procesos de reporting, y resol
   </td>
   </tr>
 
+  <tr>
+    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+
+### Informe Marzo 2025
+
+<img src="{{ '/assets/img/informe-marzo-2025.png' | relative_url }}" alt="Informe Marzo 2025" width="100%" />
+
+**Tareas del mes**
+
+- **Gestión administrativa:** Manual de TravelPerk, asignación de clave Wi-Fi y accesos de tarjeta, licencia AnyDesk en Intercap.  
+- **Hardware:** Reparación de PC de Mettering con sustitución de disco duro y equipo.  
+- **Impresoras:** Solicitud de tóner, instalación de impresora, incidencias en Zebra y Ricoh, soporte técnico de impresión.  
+- **Permisos de acceso:** Restablecimiento y cambio de contraseñas en Sage y AD.  
+- **Servicios:** Cambio de discos de backup en Intercap y Cimarlaser.  
+- **Software:** Resolución de VPN FortiClient, reconexión de unidades de red, desbloqueos en Sage, configuración de RDP, optimización de PCs y gestión de aplicaciones (encuestas, editores PDF).  
+- **Telecomunicaciones:** Escaneo de redes y resolución de cortes en la sala blanca de Intercap.  
+
+<br/><br/>
+**Reflexión del mes**  
+En marzo afianzé mis conocimientos en soporte de software crítico y en diagnóstico de hardware, mejorando la continuidad operativa de los sistemas y optimizando procesos de acceso remoto.
+
+  </td>
+  <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+
+### Informe Abril 2025
+
+<img src="{{ '/assets/img/informe-abril-2025.png' | relative_url }}" alt="Informe Abril 2025" width="100%" />
+
+**Tareas del mes**
+
+- **Altas, bajas y traslados:** Preparación de portátiles nuevos con software y configuración de red e impresoras.  
+- **Gestión administrativa:** Reciclaje de hardware, tarjeta de acceso temporal.  
+- **Hardware:** Configuración de ratón vertical y cambio de soportes de monitor.  
+- **Permisos de acceso:** Gestión de presencia en Intercap, restauración de contraseñas y permisos de carpetas.  
+- **Servicios:** Cambio de discos de backup en Intercap y Cimarlaser.  
+- **Software:** Instalación y sustitución de portátiles, incidencias VPN y Teams, configuración de macOS, BitLocker, Oracle y SolidWorks.  
+- **Telecomunicaciones:** Cambio de red DHCP a manual y chequeo de conectividad Wi-Fi y Ethernet.  
+- **Telefonía:** Preparación y actualización de móviles para el SAT y almacén.  
+
+<br/><br/>
+**Reflexión del mes**  
+Durante abril, reforcé la eficiencia en despliegue de equipos nuevos y amplié mi experiencia en entornos mixtos (Windows/macOS), garantizando estabilidad en servicios de red y comunicaciones.
+
+  </td>
+  </tr>
+
+
 </table>
 
 
