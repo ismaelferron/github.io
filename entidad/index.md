@@ -61,16 +61,16 @@ En conjunto, estas empresas complementan la misión de Circutor de mejorar la ef
 - **Oscar Campos** (Jefe de Departamento IT)
   
   - **Equipo de Redes**
-    - Xavi Barba (Técnico de Redes)
-    - José Antonio López (Técnico de Redes)
+    - Xavi Barba (Administrador de Sistemas)
+    - José Antonio López (Administrador de Sistemas)
       
-  - **Equipo de Proyectos**
-    - Toni Canalis  (Proyectos) 
-    - Borja Sevilla (Proyectos)
-    - Marc Genesca (Proyectos)
+  - **Equipo de Proyectos y Desarrollo Web**
+    - Toni Canalis  (Proyectos y Desarrollo Web) 
+    - Borja Sevilla (Proyectos y Desarrollo Web)
+    - Marc Genesca (Proyectos y Desarrollo Web)
       
   - **Sistemas de Información/Asistencia Tecnica**
-    - Raúl Salvador (Responsable de Sistemas de Información)
+    - Raúl Salvador (Tecnico IT- Sistemas de Información)
       - Eric Pérez (Becario)        
       - Jana Claraco (Becaria)
       - Cristian Tapia (Becario)
@@ -81,7 +81,7 @@ El Departamento de IT se sitúa en la primera planta del edificio, al fondo y a 
 
 1. **Dirección**  
    Coordina las políticas tecnológicas, establece las directrices estratégicas y supervisa el cumplimiento de los objetivos TIC.  
-2. **Desarrollo de Proyectos**  
+2. **Desarrollo de Proyectos **  
    Diseña, implementa y mantiene aplicaciones internas y herramientas a medida, así como integra nuevas funcionalidades según las necesidades de la compañía.  
 3. **Administradores de Red**  
    Gestionan y optimizan infraestructuras de red LAN/WAN, aseguran la conectividad corporativa y velan por la seguridad en la transferencia de datos.  
