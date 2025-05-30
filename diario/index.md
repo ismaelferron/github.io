@@ -55,8 +55,8 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 **Reflexión del mes**  
 Durante junio, he consolidado mis habilidades en la gestión de incidencias, aprendiendo a organizar y priorizar tareas según su urgencia y optimizando el flujo de trabajo del equipo.
 
-    </td>
-    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+ </td>
+  <td width="50%" valign="top" markdown="1" style="padding: 10px;">
 
 ### Informe Julio 2024
 
@@ -80,7 +80,7 @@ Durante junio, he consolidado mis habilidades en la gestión de incidencias, apr
 **Reflexión del mes**  
 En julio, profundicé en la administración de sistemas y en la configuración de infraestructuras, lo que me permitió ganar autonomía y confianza en la resolución de problemas más complejos.
 
-    </td>
+   </td>
   </tr>
   <tr>
     <td width="50%" valign="top" markdown="1" style="padding: 10px;">
@@ -106,8 +106,8 @@ En julio, profundicé en la administración de sistemas y en la configuración d
 **Reflexión del mes**  
 Durante septiembre, optimicé la gestión de altas y bajas, reforcé la seguridad de acceso y pulí procesos de soporte hardware y software, mejorando notablemente los tiempos de respuesta.
 
-    </td>
-    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+</td>
+<td width="50%" valign="top" markdown="1" style="padding: 10px;">
 
 ### Informe Octubre 2024
 
@@ -131,7 +131,7 @@ Durante septiembre, optimicé la gestión de altas y bajas, reforcé la segurida
 **Reflexión del mes**  
 Durante octubre, afian­cé mi capacidad para gestionar infraestructuras de red y telefonía, consolidé procedimientos de acceso y respaldo de equipos, y optimicé la configuración de aplicaciones críticas.
 
-    </td>
+  </td>
   </tr>
   <tr>
     <td width="50%" valign="top" markdown="1" style="padding: 10px;">
@@ -156,8 +156,8 @@ Durante octubre, afian­cé mi capacidad para gestionar infraestructuras de red 
 **Reflexión del mes**  
 En noviembre consolidé la documentación de procesos y reforcé la infraestructura hardware y de red, lo que mejoró la eficiencia y tiempos de respuesta del equipo.
 
-    </td>
-    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+  </td>
+   <td width="50%" valign="top" markdown="1" style="padding: 10px;">
 
 ### Informe Diciembre 2024
 
