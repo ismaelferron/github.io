@@ -33,43 +33,47 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 
 ## Incidencias y tareas mensuales
 
-<div markdown="1" style="display: flex; gap: 1rem; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-  <div style="flex: 1; min-width: 300px;">
-    ### Informe Junio 2024
+#### Informe Junio 2024
 
-    ![Informe Junio 2024](/assets/images/informe-junio-2024.png){: style="width:100%; height:auto;" }
+<img src="{{ '/assets/images/diario/informe-junio-2024.png' | relative_url }}" alt="Informe Junio 2024" width="100%" />
 
-    **Tareas del mes**
+**Tareas del mes**
 
-    - **Altas, bajas y traslados:** Inventario y registro en Excel de las herramientas y periféricos usados por el equipo.  
-    - **Gestión administrativa:** Gestión de firmas, restauración de contraseñas y emisión de tarjetas de acceso.  
-    - **Hardware:** Sustitución de auriculares y correcta conexión de monitores.  
-    - **Impresoras:** Preparación de impresora Intermec e instalación de sus drivers.  
-    - **Seguridad:** Restablecimiento de contraseñas de Windows.  
-    - **Software:** Instalación, actualización y optimización de aplicaciones (Sophos, Bartender, Draftsight, Office y Outlook).  
-    - **Telefonía:** Configuración de correos en Outlook móvil y alta de teléfonos en Sophos.  
-  </div>
+- **Altas, bajas y traslados:** Inventario y registro en Excel de las herramientas y periféricos usados.  
+- **Gestión administrativa:** Gestión de firmas, restauración de contraseñas y emisión de tarjetas de acceso.  
+- **Hardware:** Sustitución de auriculares y conexión de monitores.  
+- **Impresoras:** Preparación e instalación de drivers en impresora Intermec.  
+- **Seguridad:** Restablecimiento de contraseñas de Windows.  
+- **Software:** Instalación y optimización de aplicaciones (Sophos, Bartender, Draftsight, Office y Outlook).  
+- **Telefonía:** Configuración de correos en Outlook móvil y alta de teléfonos en Sophos.
 
-  <div style="flex: 1; min-width: 300px;">
-    ### Informe Julio 2024
+    </td>
+    <td width="50%" valign="top">
 
-    ![Informe Julio 2024](/assets/images/informe-julio-2024.png){: style="width:100%; height:auto;" }
+#### Informe Julio 2024
 
-    **Tareas del mes**
+<img src="{{ '/assets/images/diario/informe-julio-2024.png' | relative_url }}" alt="Informe Julio 2024" width="100%" />
 
-    - **Altas, bajas y traslados:** Preparación y reasignación de equipamiento y puestos de trabajo, incluyendo accesos, portátiles y móviles.  
-    - **Gestión administrativa:** Depuración de inventario, generación de informes y gestión de autorizaciones y tarjetas de acceso.  
-    - **Hardware:** Montaje y reparación de dispositivos diversos (monitores, portátiles, periféricos y equipos de sala).  
-    - **Impresoras:** Configuración y puesta en marcha de impresoras Zebra.  
-    - **Permisos de acceso:** Asignación de accesos a unidades de red.  
-    - **S.O.:** Instalación y configuración de sistemas operativos y cuentas de administrador.  
-    - **Seguridad:** Creación de perfiles administrativos y entrega de dispositivos preparados.  
-    - **Servicios:** Mantenimiento de sistemas de backup y cambio de discos en centros remotos.  
-    - **Software:** Instalación, actualización y configuración de aplicaciones y sistemas empresariales (SAP, DWG TrueView, Sage, AnyDesk, etc.).  
-    - **Telecomunicaciones:** Instalación y reparación de infraestructuras de red, incluyendo PoE y VLANs.  
-    - **Telefonía:** Mantenimiento y configuración de dispositivos móviles, gestión de protecciones y contraseñas PUK.  
-  </div>
+**Tareas del mes**
 
-</div>
+- **Altas, bajas y traslados:** Preparación y reasignación de equipamiento y puestos de trabajo.  
+- **Gestión administrativa:** Depuración de inventario y gestión de autorizaciones.  
+- **Hardware:** Montaje y reparación de monitores, portátiles y periféricos.  
+- **Impresoras:** Configuración de impresoras Zebra.  
+- **Permisos de acceso:** Asignación de unidades de red.  
+- **S.O.:** Instalación de sistemas operativos y cuentas de administrador.  
+- **Seguridad:** Creación de perfiles administrativos y entrega de dispositivos.  
+- **Servicios:** Mantenimiento de backups y cambio de discos.  
+- **Software:** Instalación y configuración de SAP, DWG TrueView, Sage, AnyDesk, etc.  
+- **Telecomunicaciones:** Instalación de PoE y VLANs.  
+- **Telefonía:** Mantenimiento de móviles y gestión de contraseñas PUK.
+
+    </td>
+  </tr>
+</table>
+
 
