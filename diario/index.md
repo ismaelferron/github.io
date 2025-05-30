@@ -279,7 +279,36 @@ Durante abril, reforcé la eficiencia en despliegue de equipos nuevos y amplié 
   </tr>
 
 
+  <tr>
+    <td width="50%" valign="top" markdown="1" style="padding: 10px;">
+
+### Informe Mayo 2025
+
+<img src="{{ '/assets/img/informe-mayo-2025.png' | relative_url }}" alt="Informe Mayo 2025" width="100%" />
+
+**Tareas del mes**
+
+- **Adquisición:** Peticiones varias de almacén para adquirir distintos elementos.  
+- **Gestión administrativa:** Creación de manuales de usuario.  
+- **Hardware:** Cambio de disco duro en portátil; incidencias con conexión inalámbrica y pantalla.  
+- **Permisos de acceso:** Restablecimiento de contraseñas caducadas.  
+- **Servicios:** Cambio semanal de discos de backup en Intercap y Cimarlaser.  
+- **Software:** Ajustes en Outlook, SAP, VPN, Teams y Sage; actualizaciones de drivers y configuración de unidades de red; resolución de múltiples incidencias de impresión y audio.  
+- **Telecomunicaciones:** Resolución de incidencias en punto de acceso, Wi-Fi y lector de Cimarlaser.  
+
+<br/><br/>
+**Reflexión del mes**  
+En mayo reforcé los procesos de mantenimiento preventivo y la actualización de infraestructuras, logrando mayor estabilidad en redes y equipos.
+
+  </td>
+  </tr>
 </table>
+
+<br/><br/>
+
+## Reflexión general
+
+[Escribe aquí tu pequeña reflexión sobre el periodo de prácticas…]
 
 
 
