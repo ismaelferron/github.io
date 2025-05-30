@@ -35,11 +35,11 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 
 <table markdown="1">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" markdown="1">
 
 ##### Informe Junio 2024
 
-![Informe Junio 2024]({{ '/assets/img/informe-junio-2024.png' | relative_url }}){: width="100%" }
+<img src="{{ '/assets/img/informe-junio-2024.png' | relative_url }}" alt="Informe Junio 2024" width="100%" />
 
 **Tareas del mes**
 
@@ -52,11 +52,11 @@ Antes de los informes mensuales, detalla aquí las principales responsabilidades
 - **Telefonía:** Configuración de correos en Outlook móvil y alta de teléfonos en Sophos.
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" markdown="1">
 
 ##### Informe Julio 2024
 
-![Informe Julio 2024]({{ '/assets/img/informe-julio-2024.png' | relative_url }}){: width="100%" }
+<img src="{{ '/assets/img/informe-julio-2024.png' | relative_url }}" alt="Informe Julio 2024" width="100%" />
 
 **Tareas del mes**
 
