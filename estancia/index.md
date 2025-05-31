@@ -18,9 +18,9 @@ title: Datos de la estancia en Circutor
 ## Cómputo de horas
 
 - **Período de prueba (FCT):**  
-   - Total de horas realizadas: [80]  
+   - Total de horas realizadas: 49   
 - **Total de horas como becario/contratado:**  
-   - Total de horas realizadas: [900]
+   - Total de horas realizadas: 900
      
 ---
 
