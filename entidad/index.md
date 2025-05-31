@@ -95,7 +95,7 @@ El Departamento de IT se sitúa en la primera planta del edificio, al fondo y a 
 
 1. **Dirección**  
    Coordina las políticas tecnológicas, establece las directrices estratégicas y supervisa el cumplimiento de los objetivos TIC.  
-2. **Desarrollo de Proyectos **  
+2. **Desarrollo de Proyectos**  
    Diseña, implementa y mantiene aplicaciones internas y herramientas a medida, así como integra nuevas funcionalidades según las necesidades de la compañía.  
 3. **Administradores de Red**  
    Gestionan y optimizan infraestructuras de red LAN/WAN, aseguran la conectividad corporativa y velan por la seguridad en la transferencia de datos.  
